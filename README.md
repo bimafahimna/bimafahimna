@@ -19,10 +19,10 @@ Here are some ideas to get you started:
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bimafahimna?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/bimafahimna">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-120-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/Aquanautsss">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-140-blue?color=orange&logo=twitter">
   </a>
 </p>
 
