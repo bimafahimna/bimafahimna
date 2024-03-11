@@ -33,10 +33,6 @@ Currently switching career paths to become a software engineer ✌.
 
 As a person I really like solving problems, hence ideating and innovating is my life passion. Hopefully i can collaborate with others to solve a real-life problems!
 
-**Talking about my personal stuff:**
-- 👨‍💻 I'm currently learning Full-stack Web Development on [Sanber Campus x ITB](https://campus.sanbercode.com/)
-- 💻 I'm currently working on a back-end for car review API, and soon doing the front-end
-
 ## 🛠 Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
