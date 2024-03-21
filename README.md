@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi, I'm Bima Fahimna👋
-*An Oceanographer who wants to be a Software Engineer* 🐱‍🏍
+*A Passionate Software Engineer with a love for crafting cutting-edge web applications and AI models.* 🐱‍🏍
 <p align="left">
   <a href="https://github.com/bimafahimna?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bimafahimna?color=yellow&logo=github">
@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About me!
-Graduated from Oceanography at Institut Teknologi Bandung. Interested in Full-stack Web Development and Artificial Intelligence.
-Currently switching career paths to become a software engineer ✌.
+Graduated from Institut Teknologi Bandung. Interested in Full-stack Web Development and Artificial Intelligence.
 
-As a person I really like solving problems, hence ideating and innovating is my life passion. Hopefully i can collaborate with others to solve a real-life problems!
+As a person I really love solving problems, hence ideating and innovating is my life passion. Hopefully i can collaborate with others to solve a real-life problems!
 
 ## 🛠 Languages and Tools :
 <div>
